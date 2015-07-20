@@ -1,0 +1,25 @@
+{
+  "name": "leaflet-map-print",
+  "version": "0.1.0",
+  "description": "Website screenshot service powered by Node.js and PhantomJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpatialVision/leaflet-map-print.git"
+  },
+  "keywords": [
+    "screenshot",
+    "phantomjs",
+    "thumbnail",
+    "image"
+  ],
+  "author": "Parham Fazel <parham.fazel@spatialvision.com.au> (http://spatialvision.com.au)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SpatialVision/leaflet-map-print/issues"
+  },
+  "homepage": "https://github.com/SpatialVision/leaflet-map-print#readme"
+}
